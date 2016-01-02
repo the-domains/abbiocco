@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.896115
+  lightness: 0.644426
+  rhythmicContrast: 0.695946
+  saturation: 0.741554
+cta: {}
+layout_spectrum: 0.960304
+name: abbiocco
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.999155
